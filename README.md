@@ -1,8 +1,9 @@
-# 手机淘宝架构指南
-
-> 
+# 手机淘宝架构
 
 阿里将整套移动应用开发体系沉淀为企业级移动应用研发解决方案EMAS，对外输出，帮助更多的公司提效移动开发。
+
+<img src="https://github.com/guoxiaoxing/taobao-architecture/raw/master/art/emas_structure.png"/>
+
 
 - [EMAS官网](https://cn.aliyun.com/solution/emas)
 
@@ -29,9 +30,8 @@
 
 ### Android/iOS研发规范
 
-
-- [阿里巴巴Java开发手册]()
-- [阿里巴巴Android开发手册]()
+- [阿里巴巴Java开发手册](https://github.com/guoxiaoxing/taobao-architecture/tree/master/doc/阿里巴巴Java开发手册.pdf)
+- [阿里巴巴Android开发手册](https://github.com/guoxiaoxing/taobao-architecture/tree/master/doc/阿里巴巴Android开发手册.pdf)
 
 ### App性能基线
 
