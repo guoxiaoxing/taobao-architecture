@@ -2,7 +2,7 @@
 
 阿里将整套移动应用开发体系沉淀为企业级移动应用研发解决方案EMAS，对外输出，帮助更多的公司提效移动开发。
 
-<img src="https://github.com/guoxiaoxing/taobao-architecture/raw/master/art/emas_structure.png"/>
+<img src="https://github.com/guoxiaoxing/taobao-architecture/raw/master/art/emas_structure.png" width="600"/>
 
 
 - [EMAS官网](https://cn.aliyun.com/solution/emas)
